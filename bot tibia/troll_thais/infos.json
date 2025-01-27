@@ -1,0 +1,30 @@
+[
+    {
+        "path": "troll_thais/flag_0.png",
+        "wait": 15
+    },
+    {
+        "path": "troll_thais/flag_1.png",
+        "wait": 15
+    },
+    {
+        "path": "troll_thais/flag_2.png",
+        "wait": 15
+    },
+    {
+        "path": "troll_thais/flag_3.png",
+        "wait": 15 
+    },
+    {     
+        "path": "troll_thais/flag_4.png",
+        "wait": 15    
+    },
+    {
+        "path": "troll_thais/flag_5.png",
+        "wait": 15
+    },
+    {
+        "path": "troll_thais/flag_6.png",
+        "wait": 15
+    }
+]
